@@ -171,7 +171,7 @@ color: #F58C00;
 	display:inline-block;
 	line-height: 1.8;
 	text-decoration: none;
-	color:  #000000;
+	color: black;
 }
 
 .footer-distributed .footer-right{
@@ -188,7 +188,7 @@ color: #F58C00;
 	border-radius: 2px;
 
 	font-size: 20px;
-	color: #ffffff;
+	color: #000000;
 	text-align: center;
 	line-height: 35px;
 
