@@ -1,0 +1,354 @@
+/* --------------------------------------------------------------- */
+/* Navigation 
+/* --------------------------------------------------------------- */
+.navbar {
+	text-transform: uppercase;
+	margin-bottom: 0px;
+	font-size: 16px;
+}
+
+.navbar-inverse {
+	padding-bottom: 70px;
+	padding-top: 70px;
+}
+
+.navbar-inverse {
+position: relative;
+width: 100%;
+background: #161415 url(..//img/background.jpg) no-repeat top center;
+	    background-size: cover !important;
+	    -webkit-background-size: cover !important;
+	    text-align: center;
+overflow: hidden;
+	  border-color: #16a085;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+color: #FF8C00;
+}
+
+.navbar-brand {
+	font-weight: 700;
+	letter-spacing: 2px;
+color:  #ffffff;
+font: normal 25px 'Cookie', cursive;
+}
+
+.navbar-brand span{
+color:  #FF8C00;
+}
+
+.navbar-inverse .navbar-brand {
+color: white;
+}
+
+.navbar-inverse .navbar-toggle {
+	border-color: transparent;
+}
+
+/* -------------------------------------------------------------------- */
+/* Welcome section 
+/* -------------------------------------------------------------------- */
+body .ww {
+	padding-top: 50px;
+	background-color: #f2f2f2;
+}
+
+/* -------------------------------------------------------------------- */
+/* Resume
+/* -------------------------------------------------------------------- */
+#resume {
+background: #fff;
+	    padding-top: 90px;
+	    padding-bottom: 72px;
+	    padding-left: 90px;
+}
+#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a:hover, #resume a:focus { color: #313131; }
+
+#resume h1 {
+font: 18px/24px 'opensans-bold', sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+}
+#resume h1 span {
+	border-bottom: 3px solid #FF8C00;
+	padding-bottom: 6px;
+}
+#resume h3 {
+font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#resume .header-col { padding-top: 9px; }
+#resume .main-col { padding-right: 10%; }
+
+.education, .work {
+	margin-bottom: 48px;
+	padding-bottom: 24px;
+	border-bottom: 1px solid #E8E8E8;
+}
+.skill {
+	border-bottom: 1px solid #E8E8E8;
+}
+.skill ul {
+	margin-top: 1cm;
+	margin-bottom: 1cm;
+	font-size: 15px;
+}
+#resume .info {
+font: 16px/24px 'librebaskerville-italic', serif;
+color: #6E7881;
+       margin-bottom: 18px;
+       margin-top: 9px;
+}
+#resume .info span {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+#resume .date {
+font: 15px/24px 'opensans-regular', sans-serif;
+      margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Download button
+/* ------------------------------------------------------------------ */
+#resume .download {
+width: 58.33333%;
+       padding-top: 6px; 
+       text-align: right;
+}
+#resume .main-col { padding-right: 5%; }
+#resume .download .button {
+	margin-top: 6px;
+background: #444;
+color: #fff
+}
+#resume .download .button:hover {
+background: #444;
+color: #F58C00;
+}
+#resume .download .button i {
+	margin-right: 15px;
+	font-size: 20px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Footer
+/* ------------------------------------------------------------------ */
+.footer-distributed{
+	background-color: #292c2f;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+        text-align: left;
+	font: bold 16px sans-serif;
+
+	padding: 55px 50px;
+	margin-top: 80px;
+}
+
+.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+display: inline-block;
+	 vertical-align: top;
+	}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+width: 40%;
+}
+
+/* The company logo */
+
+.footer-distributed h3{
+color:  #ffffff;
+font: normal 36px 'Cookie', cursive;
+margin: 0;
+}
+
+.footer-distributed h3 span{
+color:  #5383d3;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links{
+color:  #ffffff;
+margin: 20px 0 12px;
+padding: 0;
+}
+
+.footer-distributed .footer-links a{
+display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center{
+width: 35%;
+}
+
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+color: #ffffff;
+       font-size: 25px;
+width: 38px;
+height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+display: inline-block;
+color: #ffffff;
+       vertical-align: middle;
+margin:0;
+}
+
+.footer-distributed .footer-center p span{
+display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+color:  #5383d3;
+	text-decoration: none;;
+}
+
+
+/* Footer Right */
+
+.footer-distributed .footer-right{
+width: 20%;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+display: block;
+color:  #ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons{
+	margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a{
+display: inline-block;
+width: 35px;
+height: 35px;
+cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+color: #ffffff;
+       text-align: center;
+       line-height: 35px;
+
+       margin-right: 3px;
+       margin-bottom: 5px;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 880px) {
+
+	.footer-distributed{
+font: bold 14px sans-serif;
+	}
+
+	.footer-distributed .footer-left,
+		.footer-distributed .footer-center,
+		.footer-distributed .footer-right{
+display: block;
+width: 100%;
+       margin-bottom: 40px;
+       text-align: center;
+		}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+
+
+/* -------------------------------------------------------------------- */
+/* Color Wraps / Blog Page
+/* ---------------------------------------------------------------------*/
+
+#post {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+/* Blog Date*/
+bd {
+	font-size: 12px;
+	text-transform: uppercase;
+color: #000000;
+       font-weight: 700;
+}
+
+/* Blog Author*/
+ba {
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+/* Blog Quote */
+.bq {
+	font-size: 22px;
+	padding-top: 30px;
+}
+
+/* Blog Tags */
+bt {
+	font-size: 12px;
+}
+
+/* ----------------------------------------------------------------------- */
+/* glyphicon Configuration 
+/* ----------------------------------------------------------------------- */
+
+.glyphicon {
+	font-size: 40px;
+color: #1abc9c;
+}
