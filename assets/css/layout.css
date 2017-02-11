@@ -141,11 +141,11 @@ color: #F58C00;
 /* Footer
 /* ------------------------------------------------------------------ */
 .footer-distributed{
-	 width: 640px;
-    position: fixed;
-    bottom: 0px;
-    left: 50%;
-    margin-left: -320px;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
 }
 
 .footer-distributed .footer-left p{
