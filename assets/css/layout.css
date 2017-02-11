@@ -134,18 +134,22 @@ color: #F58C00;
 }
 #resume .download .button i {
 	margin-right: 15px;
-	font-size: 80px;
+	font-size: 20px;
 }
 
 /* ------------------------------------------------------------------ */
 /* Footer
 /* ------------------------------------------------------------------ */
 .footer-distributed{
-	position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100px;
-    width: 100%;
+	background-color: #292c2f;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: normal 16px sans-serif;
+
+	padding: 45px 50px;
+	margin-top: 80px;
 }
 
 .footer-distributed .footer-left p{
