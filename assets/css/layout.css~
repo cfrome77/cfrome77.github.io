@@ -140,74 +140,80 @@ color: #F58C00;
 /* ------------------------------------------------------------------ */
 /* Footer
 /* ------------------------------------------------------------------ */
-footer .rights{
-    float: left;
+.footer-distributed{
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: normal 16px sans-serif;
 
-}
-footer .rights p{
-    float:left;
-    margin-top: 136px;
-    display: inline-block;
-    margin-left: 97px;
-}
-
-footer .imgLink{
-    width: 63px;
-    height: 35px;
-    background-color: white;
-    padding: 10px;
-    margin-left: 5px;
-    margin-right: 5px;
-    border-radius: 16px;
+	padding: 45px 50px;
+	margin-top: 80px;
 }
 
-footer .power{
-    width: 300px;
-    height: 145px;
-    margin: 0;
-    margin-left: 412px;
-    margin-right: 0px;
-    margin-bottom: 30px;
-    background-color: #260391;
-    border-radius: 10px;
-    text-align: center;
-    border: 5px groove #97d3b9;
-    position:absolute;
-    display:block;
+.footer-distributed .footer-left p{
+	color:  #8f9296;
+	font-size: 14px;
+	margin: 0;
 }
 
-footer .power p{
-    font-weight: bolder;
-    font-size: 19px;
-    color: white;
-    margin-top: 3px;
-    margin-bottom: 14px;
+/* Footer links */
+
+.footer-distributed p.footer-links{
+	font-size:18px;
+	font-weight: bold;
+	color:  #ffffff;
+	margin: 0 0 10px;
+	padding: 0;
 }
 
-footer .power div p{
-    margin-top: -20px;
+.footer-distributed p.footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
 }
 
-footer .power img{
-    width: 90px;
-    display: inline-block;
-    margin-left: 13px;
-    border-radius: 13px;
+.footer-distributed .footer-right{
+	float: right;
+	margin-top: 6px;
+	max-width: 180px;
 }
 
-footer .power div{
-    display:inline-block;
+.footer-distributed .footer-right a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-left: 3px;
 }
 
-footer .connect ul{
-    list-style: none;
-    float:right;
-    margin-top: 100px;
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 600px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-right{
+		text-align: center;
+	}
+
+	.footer-distributed .footer-right{
+		float: none;
+		margin: 0 auto 20px;
+	}
+
+	.footer-distributed .footer-left p.footer-links{
+		line-height: 1.8;
+	}
 }
 
-footer .connect ul li{
-    float: left;
-}
 
 /* -------------------------------------------------------------------- */
 /* Color Wraps / Blog Page
