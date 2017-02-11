@@ -141,6 +141,7 @@ color: #F58C00;
 /* Footer
 /* ------------------------------------------------------------------ */
 .footer-distributed{
+
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
@@ -171,7 +172,14 @@ color: #F58C00;
 	display:inline-block;
 	line-height: 1.8;
 	text-decoration: none;
-	color: black;
+	color:  inherit;
+}
+
+.footer-distributed p.footer-links a hover{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  FF8C00;
 }
 
 .footer-distributed .footer-right{
@@ -188,7 +196,7 @@ color: #F58C00;
 	border-radius: 2px;
 
 	font-size: 20px;
-	color: #000000;
+	color: #ffffff;
 	text-align: center;
 	line-height: 35px;
 
@@ -212,41 +220,6 @@ color: #F58C00;
 	.footer-distributed .footer-left p.footer-links{
 		line-height: 1.8;
 	}
-}
-
-
-/* -------------------------------------------------------------------- */
-/* Color Wraps / Blog Page
-/* ---------------------------------------------------------------------*/
-
-#post {
-	padding-top: 60px;
-	padding-bottom: 60px;
-}
-
-/* Blog Date*/
-bd {
-	font-size: 12px;
-	text-transform: uppercase;
-color: #000000;
-       font-weight: 700;
-}
-
-/* Blog Author*/
-ba {
-	font-size: 12px;
-	text-transform: uppercase;
-}
-
-/* Blog Quote */
-.bq {
-	font-size: 22px;
-	padding-top: 30px;
-}
-
-/* Blog Tags */
-bt {
-	font-size: 12px;
 }
 
 /* ----------------------------------------------------------------------- */
