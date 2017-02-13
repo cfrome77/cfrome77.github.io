@@ -141,9 +141,13 @@ color: #F58C00;
 /* Footer
 /* ------------------------------------------------------------------ */
 .footer-distributed{
-    background-color: black;
     position:fixed;
-    width:100%;
+    height:50px;
+    background-color:red;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
 }
 
 .footer-distributed .footer-left p{
