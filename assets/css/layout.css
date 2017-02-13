@@ -143,9 +143,6 @@ color: #F58C00;
 .footer-distributed{
     background-color: black;
     position:fixed;
-    left:0px;
-    bottom:0px;
-    height:30px;
     width:100%;
 }
 
@@ -170,13 +167,6 @@ color: #F58C00;
 	line-height: 1.8;
 	text-decoration: none;
 	color:  inherit;
-}
-
-.footer-distributed p.footer-links a hover{
-	display:inline-block;
-	line-height: 1.8;
-	text-decoration: none;
-	color:  #FF8C00;
 }
 
 .footer-distributed .footer-right{
