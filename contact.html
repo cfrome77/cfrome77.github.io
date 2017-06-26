@@ -1,122 +1,64 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+	<title>Chris Frome - Contact</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
 
-    <title>Chris Frome - Contact </title>
+   <!-- Mobile Specific Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <!-- Bootstrap core CSS -->
-   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<!-- CSS -->
+   <link rel="stylesheet" href="css/default.css">
+   <link rel="stylesheet" href="css/layout.css">
 
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/img/favicon.ico" >
+   <!-- Script -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons -->
+	<link rel="shortcut icon" href="images/favicon.ico" >
 	
-    <!-- Custom styles for this template -->
-    <link href="assets/css/layout.css" rel="stylesheet">
-    <link href="assets/css/default.css" rel="stylesheet" type='text/css'>
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-  </head>
+</head>
 
-  <body>
+<body>
 
-    <!-- Static navbar -->
-    <div class="navbar navbar-inverse navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">Chris&nbsp<span>Frome</span></a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="work.html">Work</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+   <!-- Header -->
+   <header id="home">
+
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">Contact Me</h1>
+            <h3>Email me at: <a href="mailto:fromeca@dukes.jmu.edu">fromeca@dukes.jmu.edu</a></h3>
+            <hr />
+            <ul class="social">
+
+               <li><a href="https://twitter.com/cfrome77" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/cfrome77" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://github.com/cfrome77" target="_blank" title="Github"><i class="fa fa-github"></i></a></li>
+               <li><a href="index.html" title="Home Page"><i class="fa fa-home"></i></a></li>
+               <li><a href="ChristopherAFromeResume2016.pdf" target="_blank" title="Resume"><i class="fa fa-download"></i></a></li>
+            </ul>
+         </div>
       </div>
-    </div>
-	
-	<!--- Contact form --->
-	<section id="content">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12" style="margin-bottom: 1cm">
-              <h2>Contact Me</h2>   
 
-            <!-- Start Contact Form -->
-            <form action="form-process.php" role="form" id="contactForm" class="contact-form" data-toggle="validator" class="shake">
-              <div class="form-group">
-                <div class="controls">
-                  <input type="text" id="name" class="form-control" placeholder="Name" required data-error="Please enter your name">
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <div class="controls">
-                  <input type="email" class="email form-control" id="email" placeholder="Email" required data-error="Please enter your email">
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <div class="controls">
-                  <input type="text" id="msg_subject" class="form-control" placeholder="Subject" required data-error="Please enter your message subject">
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <div class="controls">
-                  <textarea id="message" rows="7" placeholder="Message" class="form-control" required data-error="Write your message"></textarea>
-                  <div class="help-block with-errors"></div>
-                </div>  
-              </div>
+   </header> <!-- Header End -->
 
-              <button type="submit" id="submit" class="btn btn-success"></i> Send Message</button>
-              <div id="msgSubmit" class="h3 text-center hidden"></div> 
-              <div class="clearfix"></div>   
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
 
-            </form>     
-            <!-- End Contact Form -->
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Content Section  -->     
-		
-	<!-- Footer Section -->
-	<footer class="footer">
-	<div class="right">
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/init.js"></script>
 
-				<a href="#"><i class="fa fa-facebook"></i></a>
-				<a href="#"><i class="fa fa-twitter"></i></a>
-				<a href="#"><i class="fa fa-linkedin"></i></a>
-				<a href="#"><i class="fa fa-github"></i></a>
+</body>
 
-			</div>
-
-			<div class="left">
-				<p>Chris Frome &copy; 2017</p>
-			</div>
-	</footer>
-	
-    <!-- JavaScript -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="assets/js/form-validator.min.js"></script>  
-    <script type="text/javascript" src="assets/js/contact-form-script.js"></script>
-  </body>
 </html>
