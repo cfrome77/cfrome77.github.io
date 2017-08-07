@@ -87,25 +87,17 @@ header .social li {
 header .social li a { color: #fff; }
 header .social li a:hover { color: #FF8C00; }
 
-/* scrolldown link */
-header .scrolldown a {
-   position: absolute;
-   bottom: 30px;
-   left: 50%;
-   margin-left: -29px;
-   color: #fff;
-   display: block;
-   height: 42px;
-   width: 42px;
-   font-size: 42px;
-   line-height: 42px;
-   color: #fff;
-   border-radius: 100%;
+/* ------------------------------------------ */
+/* Footer Styles
+/* ------------------------------------------ */
 
-   -webkit-transition: all .3s ease-in-out;
-   -moz-transition: all .3s ease-in-out;
-   -o-transition: all .3s ease-in-out;
-   transition: all .3s ease-in-out;
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: none;
+  color: white;
+  text-align: center;
 }
-header .scrolldown a:hover { color: #FF8C00; }
-
