@@ -92,13 +92,15 @@ header .social li a:hover { color: #FF8C00; }
 /* ------------------------------------------ */
 
 .footer {
-  width: 100px;
-  position: absolute;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  padding: 5px;
-  background-color: none;
-  color: white;
+  padding-top: 48px;
+  margin-bottom: 48px;
+  font-size: 14px;
   text-align: center;
+  position: relative;
+  color: white;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
 }
