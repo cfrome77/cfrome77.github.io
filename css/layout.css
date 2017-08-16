@@ -92,7 +92,7 @@ header .social li a:hover { color: #FF8C00; }
 /* ------------------------------------------ */
 
 .footer {
-  width: 100%;
+  width: 100px;
   position: absolute;
   right: 0px;
   bottom: 0px;
