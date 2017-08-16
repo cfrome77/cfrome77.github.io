@@ -19,8 +19,9 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: auto;
-   width: 100%;
+   position: relative;
+   height: 800px;
+   min-height: 500px;
    background: #161415 url(../images/background.jpg) no-repeat center center fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
