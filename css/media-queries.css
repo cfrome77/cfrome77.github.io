@@ -40,12 +40,13 @@
       width: 65%;
       margin: 12px auto;
    }
-   /* nav-wrap */
-   #nav-wrap {
-      font: 11px 'opensans-bold', sans-serif;
-      letter-spacing: 1.5px;
-   }
+}
 
+/* mobile wide/smaller tablets
+---------------------------------------------------------------------- */
+
+@media only screen and (max-width: 767px) {
+    
    /* Header Styles
    -------------------------------------------------------------------- */
    header .banner {
@@ -72,15 +73,12 @@
 
     /* scrolldown link */
    header .scrolldown { display: none; }
+}
 
 /* mobile narrow
   -------------------------------------------------------------------------- */
 
 @media only screen and (max-width: 480px) {
-
-   /* mobile navigation
-   -------------------------------------------------------------------- */
-   #nav-wrap ul#nav { width: auto; float: none; }
 
    /* header styles
    -------------------------------------------------------------------- */
@@ -97,3 +95,5 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+
+}
