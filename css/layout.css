@@ -106,6 +106,8 @@ header .social li a:hover { color: #FF8C00; }
    left: 0;
    top: 0;
 }
+
+}
 .opaque { background-color: #333; }
 
 /* hide toggle button */
