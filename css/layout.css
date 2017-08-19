@@ -18,11 +18,11 @@ header {
    position: relative;
    height: auto;
    width: 100%;
-   background: #161415 url(../images/background.jpg) no-repeat center center fixed;
+   background: url(../images/background.jpg) no-repeat center center fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: cover !important;
    text-align: center;
    overflow: hidden;
 }
@@ -84,14 +84,3 @@ header .social li {
 header .social li a { color: #fff; }
 header .social li a:hover { color: #FF8C00; }
 
-/* ------------------------------------------ */
-/* Footer Styles
-/* ------------------------------------------ */
-
-.footer {
-  position: relative;
-  bottom: 0px;
-  width: 100%;
-  color: white;
-  text-align: center;
-}
