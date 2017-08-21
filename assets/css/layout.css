@@ -60,7 +60,17 @@
 }
 
 /* ------------------------------------------------------------------ */
-/* c. About Section
+/* Home page profile pic
+/* ------------------------------------------------------------------ */
+.profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+
+/* ------------------------------------------------------------------ */
+/* About Section
 /* ------------------------------------------------------------------ */
 
 #about {
@@ -114,7 +124,7 @@ footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 100px;
+    height: 70px;
     width: 100%;
     overflow:hidden;
     text-align:center;
