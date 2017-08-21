@@ -24,7 +24,7 @@ Stock Photos and Graphics:
  - Pixabay (http://pixabay.com/)
  - 8backgrounds (http://www.8backgrounds.com/backgrounds/background-header-893eba.html)
 
-Javascript Files:
+Javascript and CSS:
 
 - Boostrap (https://getbootstrap.com/)
 
