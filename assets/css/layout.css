@@ -1,12 +1,4 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
- * Project Name: STANLEY - Free Bootstrap 3 Theme
- * Version: 1.0
- * URL: http://blacktie.co
- */
- 
+
 /* --------------------------------------------------------------- */
 /* Navigation 
 /* --------------------------------------------------------------- */
@@ -27,6 +19,8 @@
    background: #161415 url(..//img/background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
    text-align: center;
    overflow: hidden;
    border-color: #16a085;
