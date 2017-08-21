@@ -8,21 +8,25 @@ This repository contains the code for my website hosted on GitHub pages
 2. Use your favorite editor to view and change files
 3. open index.html in browser to view changes
 
-## Directory Layout
+## Soures and Credits
 
-Root: Contains main files for each page and my resume PDF
-<br />
-CSS: assets/css
-<br />
-JS: assets/js
-<br />
-Images: assets/img
-<br />
-PHP: assets/php
-<br />
-Fonts: assets/fontello ([Fontello](https://github.com/fontello/fontello)) and assets/fonts ([Librebaskerville](https://www.fontsquirrel.com/fonts/libre-baskerville), [opensans](https://fonts.google.com/specimen/Open+Sans)) 
-<br />
-font-awesome: assets/font-awesome ([Font-awesome](http://fontawesome.io/))
+I've used the following resources as listed.
+
+Fonts:
+ - Open Sans Font (http://www.google.com/fonts/specimen/Open+Sans)
+ - Libre Baskerville Font (http://www.google.com/fonts/specimen/Libre+Baskerville)
+
+Icons:
+ - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
+ - Fontello (http://fontello.com/)
+
+Stock Photos and Graphics:
+ - Pixabay (http://pixabay.com/)
+ - 8backgrounds (http://www.8backgrounds.com/backgrounds/background-header-893eba.html)
+
+Javascript Files:
+
+- Boostrap (https://getbootstrap.com/)
 
 ## Authors
 
