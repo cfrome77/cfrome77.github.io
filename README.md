@@ -8,7 +8,7 @@ Clone git repository
 
 ## Directory Layout
 
-Root: index, work, about, contact, and 404 html pages. Resume also in root
+Root: Contains main files for each page and my resume PDF
 <br />
 CSS: assets/css
 <br />
@@ -26,10 +26,7 @@ font-awesome: assets/font-awesome ([Font-awesome](http://fontawesome.io/))
 
 * **Chris Frome** - [linkedin.com/in/cfrome77](https://linkedin.com/in/cfrome77)
 
-## License
-
-This project is licensed under the Creative Commons 3.0 Unported [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Code inspired by/drawn from: [Stanley theme](http://blacktie.co/2014/01/stanley-freelancer-theme/) by [Carlos Alvarez](http://alvarez.is) and [CEEVEE by Styleshout](http://www.styleshout.com/free-templates/ceevee/)
+* Code inspired by/drawn from: [Stanley theme](http://blacktie.co/2014/01/stanley-freelancer-theme/) by [Carlos Alvarez](http://alvarez.is) and [CEEVEE by Styleshout](http://www.styleshout.com/free-templates/ceevee/). Both are licensed under licensed under the Creative Commons 3.0 Unported [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
