@@ -1,4 +1,4 @@
-# Chrisfromem.com (cfrome77.github.io)
+# Chrisfrome.com (cfrome77.github.io)
 
 This repository contains the code for my website hosted on GitHub pages
 
@@ -24,16 +24,12 @@ font-awesome: assets/font-awesome ([Font-awesome](http://fontawesome.io/))
 
 ## Authors
 
-* **Chris Frome** - *Initial work* - [Chris Frome](https://github.com/cfrome77)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Chris Frome** - [linkedin.com/in/cfrome77](https://linkedin.com/in/cfrome77)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons 3.0 Unported - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Code inspired by/drawn from: [Stanley theme](http://blacktie.co/2014/01/stanley-freelancer-theme/) by [Carlos Alvarez](http://alvarez.is) and [CEEVEE by Styleshout](http://www.styleshout.com/free-templates/ceevee/)
