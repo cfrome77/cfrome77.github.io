@@ -29,4 +29,4 @@ font-awesome: assets/font-awesome ([Font-awesome](http://fontawesome.io/))
 
 ## Acknowledgments
 
-* Code inspired by/drawn from: [Stanley theme](http://blacktie.co/2014/01/stanley-freelancer-theme/) by [Carlos Alvarez](http://alvarez.is) and [CEEVEE by Styleshout](http://www.styleshout.com/free-templates/ceevee/). Both are licensed under licensed under the Creative Commons 3.0 Unported [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+* Code inspired by/drawn from: [Stanley theme](http://blacktie.co/2014/01/stanley-freelancer-theme/) by [Carlos Alvarez](http://alvarez.is) and [CEEVEE by Styleshout](http://www.styleshout.com/free-templates/ceevee/). Both are licensed under licensed under the Creative Commons 3.0 Unported [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
