@@ -4,7 +4,9 @@ This repository contains the code for my website hosted on GitHub pages
 
 ## Getting Started
 
-Clone git repository
+1. Clone git repository to obtain a  local copy: see [https://help.github.com/articles/cloning-a-repository/](https://help.github.com/articles/cloning-a-repository/) for help with this
+2. Use your favorite editor to view and change files
+3. open index.html in browser to view changes
 
 ## Directory Layout
 
