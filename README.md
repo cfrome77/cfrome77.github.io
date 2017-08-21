@@ -9,12 +9,18 @@ Clone git repository
 ## Directory Layout
 
 Root: index, work, about, contact, and 404 html pages. Resume also in root
+<br />
 CSS: assets/css
+<br />
 JS: assets/js
+<br />
 Images: assets/img
+<br />
 PHP: assets/php
+<br />
 Fonts: assets/fontello ([Fontello](https://github.com/fontello/fontello)) and assets/fonts ([Librebaskerville](https://www.fontsquirrel.com/fonts/libre-baskerville), [opensans](https://fonts.google.com/specimen/Open+Sans)) 
-font-awesome: assets/font-awesome
+<br />
+font-awesome: assets/font-awesome ([Font-awesome](http://fontawesome.io/))
 
 ## Authors
 
