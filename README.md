@@ -28,7 +28,7 @@ font-awesome: assets/font-awesome ([Font-awesome](http://fontawesome.io/))
 
 ## License
 
-This project is licensed under the Creative Commons 3.0 Unported - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons 3.0 Unported [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
