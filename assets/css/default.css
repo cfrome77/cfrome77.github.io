@@ -318,7 +318,7 @@ input::-moz-focus-inner {
    margin: 0 15px;
    padding: 0;
 }
-.social li a { color: #fff; }
+.social li a { color: #000; }
 .social li a:hover { color: #FFA500; }
 
 /* ---------------------------------------------------------------- */
