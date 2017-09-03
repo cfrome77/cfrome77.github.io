@@ -11,8 +11,13 @@ html {
 }
 
 body {
-  	background-color: #ffffff;
-  	font-family: 'opensans-regular', sans-serif;
+    background: url(../img/background-welcome.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #ffffff;
+    font-family: 'opensans-regular', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #555;
