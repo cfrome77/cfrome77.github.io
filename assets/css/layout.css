@@ -23,7 +23,7 @@
 	-o-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   border-color: #16a085;
+   border-color: #000000;
 }
 
 .navbar-inverse .navbar-nav > li > a {
