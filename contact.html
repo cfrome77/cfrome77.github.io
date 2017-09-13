@@ -56,17 +56,21 @@
 			<p>Email met at: <span><a href="mailto:chris@chrisfrome.com">chris@chrisfrome.com</a></span>
 		        <p>or use form below</p>
 			<hr />
-		    <form id="contactform" method="POST">
-	              <input type="text" name="name" placeholder="Your name">
-		      <br />
-	              <input type="email" name="_replyto" placeholder="Your email">
-		      <br />
-	              <input type="hidden" name="_subject" value="Website contact" />
-		      <br />
-                      <textarea name="message" placeholder="Your message"></textarea>
-                      <input type="text" name="_gotcha" style="display:none" />
-                      <input type="submit" value="Send">
-                    </form>
+<form id="contactform" action="#" method="POST" enctype="multipart/form-data">
+	<div class="row">
+		<label for="name">Your name:</label><br />
+		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="email">Your email:</label><br />
+		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="message">Your message:</label><br />
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+	</div>
+	<input id="submit_button" type="submit" value="Send email" />
+</form>						
             <ul class="social">
             	<li><a href="http://twitter.com/cfrome77" target="_blank"><i class="fa fa-twitter"></i></a></li>
                	<li><a href="http://linkedin.com/in/cfrome77" target="_blank"><i class="fa fa-linkedin"></i></a></li>
