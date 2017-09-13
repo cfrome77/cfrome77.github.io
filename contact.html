@@ -53,8 +53,16 @@
 	<div class="row" style="padding-top:15%">
 	    <div class="col-lg-8 col-lg-offset-2 centered">
 		    <h1>Contact Me</h1>
-			<p>Email met at: <span><a href="mailto:chris@chrisfrome.com">chris@chrisfrome.com</a></span>
+			<p>Email met at: <span><a href="mailto:chris@chrisfrome.com">chris@chrisfrome.com or use form below</a></span>
 			<hr />
+		    <form id="contactform" method="POST">
+	              <input type="text" name="name" placeholder="Your name">
+	              <input type="email" name="_replyto" placeholder="Your email">
+	              <input type="hidden" name="_subject" value="Website contact" />
+                      <textarea name="message" placeholder="Your message"></textarea>
+                      <input type="text" name="_gotcha" style="display:none" />
+                      <input type="submit" value="Send">
+                    </form>
             <ul class="social">
             	<li><a href="http://twitter.com/cfrome77" target="_blank"><i class="fa fa-twitter"></i></a></li>
                	<li><a href="http://linkedin.com/in/cfrome77" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -76,5 +84,9 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/js/form-validator.min.js"></script>  
     <script type="text/javascript" src="assets/js/contact-form-script.js"></script>
+    <script>
+      var contactform =  document.getElementById('contactform');
+      contactform.setAttribute('action', '//formspree.io/' + 'fromeca@dukes.jmu.edu');
+    </script>
   </body>
 </html>
