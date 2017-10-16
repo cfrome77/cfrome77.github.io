@@ -69,10 +69,6 @@
 		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
 	</div>
 	<div class="row">
-		<label for="message">Your message:</label><br />
-		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
-	</div>
-	<div class="row">
 	        <select id="subject" name="subject">
                     <option value="na" selected="">Choose One:</option>
                     <option value="service">Feedback</option>
@@ -80,6 +76,10 @@
                     <option value="support">Question</option>
                     <option value="other">Other</option>
                 </select>
+	</div>
+	<div class="row">
+		<label for="message">Your message:</label><br />
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
 	</div>
 	<input id="submit_button" type="submit" value="Send email" />
 </form>						
@@ -129,6 +129,16 @@
     });
 
 });
+(function() {
+    var $contactForm = $('#contactForm');
+    // VALIDATE FORM
+    $contactForm.validate();
+    $contactForm.submit(function(e) {
+        if ($(this).valid())
+             {...}
+       return false;
+     });
+})();
     </script>
   </body>
 </html>
