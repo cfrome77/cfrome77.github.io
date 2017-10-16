@@ -104,13 +104,7 @@
       var contactform =  document.getElementById('contactform');
       contactform.setAttribute('action', '//formspree.io/' + 'fromeca@dukes.jmu.edu');
       $(document).ready(function() {
-    $('#contactForm').bootstrapValidator({
-        container: '#messages',
-        feedbackIcons: {
-            valid: 'glyphicon glyphicon-ok',
-            invalid: 'glyphicon glyphicon-remove',
-            validating: 'glyphicon glyphicon-refresh'
-        },
+    $('#contactform').bootstrapValidator({
         fields: {
             name: {
                 validators: {
