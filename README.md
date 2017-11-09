@@ -8,7 +8,7 @@ This repository contains the code for my website hosted on GitHub pages
 2. Use your favorite editor to view and change files
 3. open index.html in browser to view changes
 
-## Soures and Credits
+## Sources and Credits
 
 I've used the following resources as listed.
 
