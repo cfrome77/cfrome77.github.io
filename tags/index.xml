@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Website</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Hugo Website</description>
+    <title>Tags on Chris Frome - Website</title>
+    <link>www.chrisfrome.com/tags/</link>
+    <description>Recent content in Tags on Chris Frome - Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.chrisfrome.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>www.chrisfrome.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>www.chrisfrome.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.org/tags/go/</link>
+      <link>www.chrisfrome.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/go/</guid>
+      <guid>www.chrisfrome.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.org/tags/golang/</link>
+      <link>www.chrisfrome.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/golang/</guid>
+      <guid>www.chrisfrome.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://example.org/tags/hugo/</link>
+      <link>www.chrisfrome.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>www.chrisfrome.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>http://example.org/tags/templates/</link>
+      <link>www.chrisfrome.com/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/templates/</guid>
+      <guid>www.chrisfrome.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://example.org/tags/themes/</link>
+      <link>www.chrisfrome.com/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/themes/</guid>
+      <guid>www.chrisfrome.com/tags/themes/</guid>
       <description></description>
     </item>
     
