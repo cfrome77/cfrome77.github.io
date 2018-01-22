@@ -1,6 +1,6 @@
 # Chrisfrome.com (cfrome77.github.io)
 
-This repository contains the code for my website using [https://gohugo.io/](hugo) and hosted on GitHub pages
+This repository contains the code for my website using [hugo](https://gohugo.io/) and hosted on GitHub pages
 
 ## Getting Started
 
