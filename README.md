@@ -4,8 +4,8 @@ This repository contains the code for my website using [hugo](https://gohugo.io/
 
 ## Getting Started
 
-1. Install hugo: [https://gohugo.io/getting-started/installing/](hugo install)
-2. Clone my [https://github.com/cfrome77/website](website) github repository to obtain a  local copy of the hugo code used to generate this site: see [https://help.github.com/articles/cloning-a-repository/](https://help.github.com/articles/cloning-a-repository/) for help with this
+1. Install hugo: [hugo install](https://gohugo.io/getting-started/installing/)
+2. Clone my [website](https://github.com/cfrome77/website) github repository to obtain a  local copy of the hugo code used to generate this site: see [https://help.github.com/articles/cloning-a-repository/](https://help.github.com/articles/cloning-a-repository/) for help with this
 3. Use your favorite editor to view and change files
 4. Run hugo hugo server -D to start server that is viewable at http://localhost:1313/
 
@@ -13,7 +13,7 @@ See: [https://gohugo.io/getting-started/usage/](https://gohugo.io/getting-starte
 
 ## Soures and Credits
 
-The code is created through [https://gohugo.io/](hugo) and uses the [https://themes.gohugo.io/hugo-theme-nix/](nix theme)
+The code is created through [hugo](https://gohugo.io/) and uses the [nix theme](https://themes.gohugo.io/hugo-theme-nix/)
 
 ## Authors
 
