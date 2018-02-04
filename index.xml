@@ -33,16 +33,14 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>Chris Frome - About</title>
       <link>https://cfrome77.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://cfrome77.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>About Me I am Senior at Computer Science major at James Madison University in Harrisonburg, VA. My interest within computer science include Software engineering, web development, and devOps/cloud development. This past summer I interend for Stratus Solutions in Fulton, MD. I will be graduating this upcoming May (2018).
+Contact Details Chris Frome Maryland (240) 394-2625 chris@chrisfrome.com
+Download Resume</description>
     </item>
     
     <item>
