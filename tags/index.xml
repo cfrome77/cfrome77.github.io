@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chris Frome</title>
-    <link>http://chrisfrome.com/tags/</link>
+    <link>https://chrisfrome.com/tags/</link>
     <description>Recent content in Tags on Chris Frome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://chrisfrome.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrisfrome.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Laravel</title>
-      <link>http://chrisfrome.com/tags/laravel/</link>
+      <link>https://chrisfrome.com/tags/laravel/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://chrisfrome.com/tags/laravel/</guid>
+      <guid>https://chrisfrome.com/tags/laravel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://chrisfrome.com/tags/projects/</link>
+      <link>https://chrisfrome.com/tags/projects/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://chrisfrome.com/tags/projects/</guid>
+      <guid>https://chrisfrome.com/tags/projects/</guid>
       <description></description>
     </item>
     

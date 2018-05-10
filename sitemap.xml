@@ -3,80 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chrisfrome.com/post/cs-480-portfolio/</loc>
+    <loc>https://chrisfrome.com/post/laravel/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/post/laravel/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chrisfrome.com/projects/</loc>
+    <loc>https://chrisfrome.com/projects/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/about/</loc>
+    <loc>https://chrisfrome.com/about/</loc>
     <lastmod>2018-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/categories/</loc>
+    <loc>https://chrisfrome.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/</loc>
+    <loc>https://chrisfrome.com/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/tags/cs480/</loc>
+    <loc>https://chrisfrome.com/tags/laravel/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/categories/cs480/</loc>
+    <loc>https://chrisfrome.com/post/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/tags/laravel/</loc>
+    <loc>https://chrisfrome.com/categories/presentations/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/post/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chrisfrome.com/categories/presentations/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chrisfrome.com/tags/projects/</loc>
+    <loc>https://chrisfrome.com/tags/projects/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/categories/projects/</loc>
+    <loc>https://chrisfrome.com/categories/projects/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chrisfrome.com/tags/</loc>
+    <loc>https://chrisfrome.com/tags/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
