@@ -1,6 +1,6 @@
 # Chrisfrome.com
 
-This repository contains the html and css for my website [chrisfrome.com](https://chrisfrome.com) hosted on github pages
+This repository contains the hugo gode used to generate chrisfrome.com hostedon github pages
 
 ## Getting Started
 
@@ -8,9 +8,10 @@ This repository contains the html and css for my website [chrisfrome.com](https:
 2. Use your favorite editor to view and change files
 3. open index.html in browser to view changes
 
-## Sources and Credits
+## Soures and Credits
 
-The website is generated using the [Hugo](https://gohugo.io/) static site geneartor 
+I've used the hugo nix theme from lord mathis.
+
 
 ## Authors
 
@@ -19,4 +20,4 @@ The website is generated using the [Hugo](https://gohugo.io/) static site genear
 
 ## Acknowledgments
 
-* The nix theme from [LordMathis](https://github.com/LordMathis/hugo-theme-nix/) is used
+* Some code is inspired by [CEEVEE by Styleshout](http://www.styleshout.com/free-templates/ceevee/). CEEVEE is licensed under the Creative Commons 3.0 Unported [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
