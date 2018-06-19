@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.chrisfrome.com/post/dutchovencooking/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.chrisfrome.com/post/laravel/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -18,13 +23,25 @@
   </url>
   
   <url>
+    <loc>https://www.chrisfrome.com/tags/cast-iron-cooking/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.chrisfrome.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.chrisfrome.com/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chrisfrome.com/categories/cooking/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,7 +53,7 @@
   
   <url>
     <loc>https://www.chrisfrome.com/post/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,7 +65,7 @@
   
   <url>
     <loc>https://www.chrisfrome.com/tags/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
