@@ -22,10 +22,10 @@
     
     <item>
       <title>Laravel</title>
-      <link>https://www.chrisfrome.com/post/laravel/</link>
+      <link>https://www.chrisfrome.com/post/Laravel/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chrisfrome.com/post/laravel/</guid>
+      <guid>https://www.chrisfrome.com/post/Laravel/</guid>
       <description>Laravel with Homestead : Web app Development and Management PHP Docs
 Laravel Docs
 What is Homestead  Homestead is a pre-packaged vagrant box that provides you will all the development tools that you need by default
