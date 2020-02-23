@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.chrisfrome.com/post/coincollecting/</loc>
+    <loc>https://www.chrisfrome.com/post/saltstack/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.chrisfrome.com/post/coin-collecting/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.chrisfrome.com/post/patchcollecting/</loc>
+    <loc>https://www.chrisfrome.com/post/patch-collecting/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.chrisfrome.com/post/dutchovencooking/</loc>
+    <loc>https://www.chrisfrome.com/post/dutch-oven-cooking/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.chrisfrome.com/post/Laravel/</loc>
+    <loc>https://www.chrisfrome.com/post/laravel/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,18 +50,18 @@
   
   <url>
     <loc>https://www.chrisfrome.com/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chrisfrome.com/tags/collecting/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.chrisfrome.com/categories/collecting/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chrisfrome.com/tags/collecting/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -75,13 +80,19 @@
   
   <url>
     <loc>https://www.chrisfrome.com/post/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.chrisfrome.com/categories/presentations/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chrisfrome.com/tags/saltstack/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

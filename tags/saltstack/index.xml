@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saltstack on Chris Frome</title>
+    <link>https://www.chrisfrome.com/tags/saltstack/</link>
+    <description>Recent content in Saltstack on Chris Frome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.chrisfrome.com/tags/saltstack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SaltStack</title>
+      <link>https://www.chrisfrome.com/post/saltstack/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chrisfrome.com/post/saltstack/</guid>
+      <description>  What is Salt?  Salt is a tool used for remote configuration of systems (Windows or Linux) in an environment
+ It uses a client-server model
+ It allows for the ability to run commands on a number of machines in parallel
+  Architecture </description>
+    </item>
+    
+  </channel>
+</rss>
