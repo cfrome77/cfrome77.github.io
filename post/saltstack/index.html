@@ -173,7 +173,7 @@ ga('create', 'UA-114432266-1', 'auto');
 
 <li><p>Uses the asynchronous message library ZeroMQ for message queuing</p></li>
 
-<li><p>Commonication encrypted over SSH</p></li>
+<li><p>Communication encrypted over SSH</p></li>
 </ul>
 
 <p><img src="/images/saltstack/architecture.png" alt="Salt Architecture" /></p>
@@ -248,10 +248,23 @@ nginx_service:
 <li>There are two top files that exist
 
 <ol>
-<li>The states top file Maps the machines and the states that should be applied to them</li>
+<li>The states top file maps the machines and the states that should be applied to them</li>
 <li>The pillars top file maps the machines and the pillar data that they can access</li>
 </ol></li>
 </ul>
+
+<pre><code class="language-yaml">base:
+    # Applied to all servers
+    '*':
+        - universal_setp
+    # Applied only to ubuntu servers
+    'os:Ubuntu':
+        - match: grain
+        - ubuntu_setup
+    # Applied only to web-server
+    web-server:
+        - apache_setup
+</code></pre>
 
 <hr />
 
@@ -273,7 +286,7 @@ salt -N windows_minions test.ping
 </ul>
 
 <pre><code class="language-yaml">nodegroups:
-    windows_minions 'G@os_familywindows'
+    windows_minions 'G@os_family:windows'
 </code></pre>
 
 <hr />
