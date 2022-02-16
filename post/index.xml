@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chris Frome</title>
@@ -6,24 +6,19 @@
     <description>Recent content in Posts on Chris Frome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.chrisfrome.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SaltStack</title>
       <link>https://www.chrisfrome.com/post/saltstack/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.chrisfrome.com/post/saltstack/</guid>
-      <description>What is Configuration mangement?  Configuration mangement is the practace of centrally managing and configuring systems from a centralized control point. Configuration management tools are used for remote configuration of systems (Windows or Linux) in an environment.  Configration Management tools  Ansible
- Puppet
- Chef
- SaltStack
-  About Salt  Started in 2011 by Thomas Hatch
- Python based, and open source
- Uses the YAML data structure along with JINJA templating</description>
+      <description>What is Configuration mangement?  Configuration mangement is the practace of centrally managing and configuring systems from a centralized control point. Configuration management tools are used for remote configuration of systems (Windows or Linux) in an environment.   Configration Management tools   Ansible
+  Puppet
+  Chef
+  SaltStack
+   About Salt   Started in 2011 by Thomas Hatch
+  Python based, and open source</description>
     </item>
     
     <item>
@@ -41,7 +36,7 @@
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.chrisfrome.com/post/patch-collecting/</guid>
-      <description> My Patch Collection Getting Started Boy Scouts Council Shoulder Strips Order of the Arrow Pocket Flaps Souvenier Patches Future </description>
+      <description>My Patch Collection Getting Started Boy Scouts Council Shoulder Strips Order of the Arrow Pocket Flaps Souvenier Patches Future </description>
     </item>
     
     <item>
@@ -61,8 +56,8 @@
       <guid>https://www.chrisfrome.com/post/laravel/</guid>
       <description>Laravel with Homestead : Web app Development and Management PHP Docs
 Laravel Docs
-What is Homestead  Homestead is a pre-packaged vagrant box that provides you will all the development tools that you need by default
- Once you have setup your virtual machine and vagrant, you simply add homestead box to it and all of the development tools are installed automatically for you. This saves you the time of individually installing the required software.</description>
+What is Homestead   Homestead is a pre-packaged vagrant box that provides you will all the development tools that you need by default
+  Once you have setup your virtual machine and vagrant, you simply add homestead box to it and all of the development tools are installed automatically for you. This saves you the time of individually installing the required software.</description>
     </item>
     
   </channel>

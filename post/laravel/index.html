@@ -6,7 +6,7 @@
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="generator" content="Hugo 0.33" />
+<meta name="generator" content="Hugo 0.92.0" />
 
 
 <script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
@@ -87,11 +87,11 @@ ga('create', 'UA-114432266-1', 'auto');
                     <ul class="dropdown-menu">
                         
                     		<li>
-                    		<a href="/post">~/posts</a>
+                    		<a href="/categories">~/categories</a>
 				    		</li>
                 		
                     		<li>
-                    		<a href="/categories">~/categories</a>
+                    		<a href="/post">~/posts</a>
 				    		</li>
                 		
                     		<li>
@@ -111,62 +111,54 @@ ga('create', 'UA-114432266-1', 'auto');
             <h1><a href="https://www.chrisfrome.com/post/laravel/">Laravel</a></h1>
             <span class="post-date">Mar 25, 2018 </span>
             <div class="post-content">
-                
-
-<h1 id="laravel-with-homestead-web-app-development-and-management">Laravel with Homestead : Web app Development and Management</h1>
-
+                <h1 id="laravel-with-homestead--web-app-development-and-management">Laravel with Homestead : Web app Development and Management</h1>
 <p><a href="http://php.net/manual/en/">PHP Docs</a></p>
-
 <p><a href="https://laravel.com/docs/5.5">Laravel Docs</a></p>
-
 <h2 id="what-is-homestead">What is Homestead</h2>
-
 <ul>
-<li><p>Homestead is a pre-packaged vagrant box that provides you will all the development tools that you need by default</p></li>
-
-<li><p>Once you have setup your virtual machine and vagrant, you simply add homestead box to it and all of the development tools are installed automatically for you. This saves you the time of individually installing the required software.</p></li>
-
-<li><p>Laravel homestead isn’t limited to the Laravel framework.</p></li>
-
-<li><p>You can generally development any PHP web application using homestead.</p></li>
+<li>
+<p>Homestead is a pre-packaged vagrant box that provides you will all the development tools that you need by default</p>
+</li>
+<li>
+<p>Once you have setup your virtual machine and vagrant, you simply add homestead box to it and all of the development tools are installed automatically for you. This saves you the time of individually installing the required software.</p>
+</li>
+<li>
+<p>Laravel homestead isn’t limited to the Laravel framework.</p>
+</li>
+<li>
+<p>You can generally development any PHP web application using homestead.</p>
+</li>
 </ul>
-
 <h2 id="advantages-of-homestead">Advantages of Homestead</h2>
-
 <ul>
-<li><p>Local development environment simulates production environment</p></li>
-
-<li><p>Needed software out of the box</p></li>
-
-<li><p>VM’s can be disposable and recreated within minutes without affecting application source code</p></li>
-
-<li><p>Easily share your vagrantfile with others</p></li>
+<li>
+<p>Local development environment simulates production environment</p>
+</li>
+<li>
+<p>Needed software out of the box</p>
+</li>
+<li>
+<p>VM’s can be disposable and recreated within minutes without affecting application source code</p>
+</li>
+<li>
+<p>Easily share your vagrantfile with others</p>
+</li>
 </ul>
-
 <h2 id="introduction-to-php-and-laravel">Introduction to PHP and Laravel</h2>
-
 <p>PHP, very much like node.js or ruby is a back-end language. It is especially suited for web development.</p>
-
 <p>Laravel is a front-end framework for PHP.</p>
-
 <p>Writing PHP and Laravel feels very similar to writing Ruby and Rails respectively.</p>
-
 <p>An example of this can be seen here when we make controllers for websites:</p>
-
 <h3 id="rails">Rails</h3>
-
-<pre><code>class ForumsController &lt; ApplicationController
+<pre tabindex="0"><code>class ForumsController &lt; ApplicationController
 
   def index
     @forums = Forum.all
   end
 
 end
-</code></pre>
-
-<h3 id="laravel">Laravel</h3>
-
-<pre><code>&lt;?php
+</code></pre><h3 id="laravel">Laravel</h3>
+<pre tabindex="0"><code>&lt;?php
 
 class FarmController extends Controller{
   public function index(){
@@ -176,78 +168,52 @@ class FarmController extends Controller{
 }
 
 ?&gt;
-</code></pre>
-
-<h2 id="how-to-setup-and-install">How to Setup and Install</h2>
-
+</code></pre><h2 id="how-to-setup-and-install">How to Setup and Install</h2>
 <ul>
-<li>First we needs to install virtual box and vagrant:</li>
-</ul>
-
+<li>
+<p>First we needs to install virtual box and vagrant:</p>
 <p><a href="https://www.virtualbox.org/wiki/Downloads">Virtual Box</a></p>
-
 <p>and</p>
-
 <p><a href="https://www.vagrantup.com/downloads.html">Vagrant</a></p>
-
-<ul>
-<li>Once these two are installed type the following in your terminal:</li>
+</li>
+<li>
+<p>Once these two are installed type the following in your terminal:</p>
+</li>
 </ul>
-
-<pre><code>  vagrant box add laravel/homestead
-</code></pre>
-
-<ul>
+<pre tabindex="0"><code>  vagrant box add laravel/homestead
+</code></pre><ul>
 <li>You will need to make a choice of what provider you want, enter 2 for virtualbox:</li>
 </ul>
-
-<p><img src="/images/laravel/provider-choice.png" alt="provider" /></p>
-
+<p><img src="/images/laravel/provider-choice.png" alt="provider"></p>
 <ul>
 <li>Next type into your terminal:</li>
 </ul>
-
-<pre><code>git clone https://github.com/laravel/homestead.git Homestead
-</code></pre>
-
-<ul>
+<pre tabindex="0"><code>git clone https://github.com/laravel/homestead.git Homestead
+</code></pre><ul>
 <li>To Initialize our homestead we need to cd into the homestead directory and type:</li>
 </ul>
-
-<pre><code>bash init.sh
-</code></pre>
-
-<ul>
+<pre tabindex="0"><code>bash init.sh
+</code></pre><ul>
 <li>Create an ssh key if it doesn’t exist:</li>
 </ul>
-
-<pre><code>ssh-keygen -t rsa -C “your_email@example.com”
-</code></pre>
-
-<ul>
+<pre tabindex="0"><code>ssh-keygen -t rsa -C “your_email@example.com”
+</code></pre><ul>
 <li>Open the homestead directory in your preferred text editor, change homestead.yaml to the following::</li>
 </ul>
-
-<p><img src="/images/laravel/HomesteadYaml.png" alt="homestead.yaml" /></p>
-
+<p><img src="/images/laravel/HomesteadYaml.png" alt="homestead.yaml"></p>
 <ul>
-<li><p>In the terminal type:</p>
-
-<pre><code>sudo nano /etc/hosts
-</code></pre>
-
-<ul>
-<li>At the end of the file add the following:
-<code>
-192.168.10.10 homestead.app
-</code></li>
-<li>Press ctrl + X followed by Y and then enter to save your changes.</li>
-</ul></li>
+<li>In the terminal type:</li>
 </ul>
-
+<pre tabindex="0"><code>    sudo nano /etc/hosts
+</code></pre><ul>
+<li>At the end of the file add the following:</li>
+</ul>
+<pre tabindex="0"><code>192.168.10.10 homestead.app
+</code></pre><ul>
+<li>Press ctrl + X followed by Y and then enter to save your changes.</li>
+</ul>
 <h2 id="vagrant-global-aliases">Vagrant Global Aliases</h2>
-
-<pre><code># Some shortcuts for easier navigation &amp; access
+<pre tabindex="0"><code># Some shortcuts for easier navigation &amp; access
 alias ..=&quot;cd ..&quot;;
 alias vm=&quot;ssh vagrant@127.0.0.1 -p 2222&quot;;
 
@@ -255,48 +221,46 @@ alias vm=&quot;ssh vagrant@127.0.0.1 -p 2222&quot;;
 function homestead() {
   ( cd ~/Homestead &amp;&amp; vagrant $* )
 } 
-</code></pre>
-
-<ul>
-<li><p>To up vagrant box use: homestead up</p></li>
-
-<li><p>To stop vagrant box use: homestead halt</p></li>
-
-<li><p>To log into vagrant box use: homestead ssh</p></li>
+</code></pre><ul>
+<li>
+<p>To up vagrant box use: homestead up</p>
+</li>
+<li>
+<p>To stop vagrant box use: homestead halt</p>
+</li>
+<li>
+<p>To log into vagrant box use: homestead ssh</p>
+</li>
 </ul>
-
 <h2 id="creating-your-first-project">Creating Your First Project</h2>
-
 <ul>
-<li><p>Homestead ssh</p></li>
-
-<li><p>Cd to shared folder ~/Code</p></li>
-
-<li><p>composer create-project &ndash;prefer-dist laravel/laravel Laravel</p></li>
-
-<li><p>Creates a default project in a directory called Laravel inside of the code folder</p></li>
-
-<li><p>Laravel uses a MVC architecture</p></li>
-
-<li><p>To view the created app load homestead.app in the browser, which has been linked to <code>192.168.10.10</code> in the host file</p></li>
+<li>
+<p>Homestead ssh</p>
+</li>
+<li>
+<p>Cd to shared folder ~/Code</p>
+</li>
+<li>
+<p>composer create-project &ndash;prefer-dist laravel/laravel Laravel</p>
+</li>
+<li>
+<p>Creates a default project in a directory called Laravel inside of the code folder</p>
+</li>
+<li>
+<p>Laravel uses a MVC architecture</p>
+</li>
+<li>
+<p>To view the created app load homestead.app in the browser, which has been linked to <code>192.168.10.10</code> in the host file</p>
+</li>
 </ul>
-
 <h2 id="laravel-file-structure">Laravel File Structure</h2>
-
-<p><img src="/images/laravel/application-structure.png" alt="Application Structure" /></p>
-
+<p><img src="/images/laravel/application-structure.png" alt="Application Structure"></p>
 <p>The important files created in the root are:</p>
-
 <p><strong>artisan</strong>: It is end point for artisan command which is used for various tasks and functions in Laravel.</p>
-
 <p><strong>composer.json</strong>: Dependency and all list for composer installation</p>
-
 <p><strong>.env</strong>: This file contain configuration based on the environment of the application.</p>
-
 <p><strong>package.json</strong>: This file contain node related dependency, for example compiling SASS or LESS.</p>
-
 <p>Upon installing following directories will be created</p>
-
 <ul>
 <li>app</li>
 <li>bootstrap</li>
@@ -309,39 +273,30 @@ function homestead() {
 <li>tests</li>
 <li>vendor</li>
 </ul>
-
 <h4 id="app-directory">App Directory</h4>
-
 <p>App Folder is one of major folder / directory in Laravel Framework, In Laravel Most of logics are written in App folder. This folder / directory contains below folders.</p>
-
 <ul>
 <li>Console</li>
 <li>Exceptions</li>
 <li>Http
-
 <ul>
 <li>Controllers</li>
 <li>Middleware</li>
-</ul></li>
+</ul>
+</li>
 <li>Providers</li>
 </ul>
-
 <h4 id="bootstrap-directory">Bootstrap Directory</h4>
-
 <p>The bootstrap directory of Laravel contains files are used for bootstrapping and configuring Laravel Framework itself. This directory is also contains a cache directory which holds all framework generated files for performance optimization and</p>
-
 <ul>
 <li>bootstrap
-
 <ul>
 <li>cache</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h4 id="config-directory">Config Directory</h4>
-
 <p>This directory contains all configration related files of laravel Framework. This directory consist of below files</p>
-
 <ul>
 <li>app.php</li>
 <li>auth.php</li>
@@ -355,49 +310,33 @@ function homestead() {
 <li>session.php</li>
 <li>view.php</li>
 </ul>
-
 <h4 id="database-directory">Database Directory</h4>
-
 <p>Laravel’s Database Directory is used to kept your database migrations and seeds. If you are going to use SQLLITE Dtabase, then you can also use this directory to hold and SQLLITE DB.</p>
-
 <h4 id="public-directory">Public Directory</h4>
-
 <p>The public directory of laravel consist of a file named index.php. In Laravel this file is an entry point for your application .This directory also holds your public assets like images , js , css files.</p>
-
 <h4 id="resources-directory">Resources Directory</h4>
-
 <p>Laravel’s Resources directory contains all view files of your application. This directory also hold your language files</p>
-
 <h4 id="routes-directory">Routes Directory</h4>
-
 <p>The routes directory of laravel contains all of the routes of your applications. web.php, api.php, console.php and channels.php are default routes files that are included in Laravel 5.4</p>
-
 <ul>
 <li>web.php: - This file contains all routes that RouteServiceProvider places in web middleware group which provides session state, CSRF protection, and cookie encryption.</li>
 <li>api.php: - This file contains all routes that RouteServiceProvider places in the api middleware group, which provides rate limiting.</li>
 <li>console.php: - In this file you may define all of your Closure based console commands.</li>
 <li>channels.php: - In file you may register all of the event broadcasting channels that your application supports</li>
 </ul>
-
 <h4 id="storage-directory">Storage Directory</h4>
-
 <p>The storage directory of laravel contains all of your coompiled blade files,sessions files, file caches, and other files generated by the framework.</p>
-
 <p>The storage/app/public is available for storing user-generated files, such as profile image,product images etc</p>
-
 <h4 id="tests-directory">Tests Directory</h4>
-
 <p>The tests directory contains all of your automated tests</p>
-
 <h4 id="vendor-directory">Vendor Directory</h4>
-
 <p>The vendor directory contains Composer dependencies related files of your application.</p>
 
             </div>
             
             <div class="post-comments">
                 <div id="disqus_thread"></div>
-<script>
+<script type="application/javascript">
     var disqus_config = function () {
     
     
@@ -421,7 +360,7 @@ function homestead() {
             <div class="push"></div>
         </div>
         <footer class="footer text-center">
-<p>Copyright &copy; 2020 Chris Frome -
+<p>Copyright &copy; 2022 Chris Frome -
 <span class="credit">
 	Powered by
 	<a target="_blank" href="https://gohugo.io">Hugo</a>
