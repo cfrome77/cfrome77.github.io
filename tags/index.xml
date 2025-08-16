@@ -4,37 +4,62 @@
     <title>Tags on Chris Frome</title>
     <link>https://www.chrisfrome.com/tags/</link>
     <description>Recent content in Tags on Chris Frome</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.chrisfrome.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coins</title>
+      <link>https://www.chrisfrome.com/tags/coins/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/tags/coins/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hobby</title>
+      <link>https://www.chrisfrome.com/tags/hobby/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/tags/hobby/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Saltstack</title>
       <link>https://www.chrisfrome.com/tags/saltstack/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
       <guid>https://www.chrisfrome.com/tags/saltstack/</guid>
       <description></description>
+      
     </item>
-    <item>
-      <title>Collecting</title>
-      <link>https://www.chrisfrome.com/tags/collecting/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/tags/collecting/</guid>
-      <description></description>
-    </item>
+    
     <item>
       <title>Cast Iron Cooking</title>
-      <link>https://www.chrisfrome.com/tags/Cast-Iron-Cooking/</link>
+      <link>https://www.chrisfrome.com/tags/cast-iron-cooking/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/tags/Cast-Iron-Cooking/</guid>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/tags/cast-iron-cooking/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Laravel</title>
       <link>https://www.chrisfrome.com/tags/laravel/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
       <guid>https://www.chrisfrome.com/tags/laravel/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

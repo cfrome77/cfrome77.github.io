@@ -4,23 +4,22 @@
     <title>Collecting on Chris Frome</title>
     <link>https://www.chrisfrome.com/categories/collecting/</link>
     <description>Recent content in Collecting on Chris Frome</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.chrisfrome.com/categories/collecting/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/categories/collecting/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Coin Collecting</title>
-      <link>https://www.chrisfrome.com/post/coin-collecting/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/coin-collecting/</guid>
-      <description>&lt;h1 id=&#34;my-coin-collection&#34;&gt;My Coin Collection&lt;/h1&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;My coin collecting began when my dad gave me my first coin book. I don&amp;rsquo;t remember my exact age, but I must have been 7 or 8. He have me one of the unfinished Lincoln penny books he had from his collection. I was also given a big book of the U.S. to use for collecting the state quarters (1999 - 2008). From there I have continued to grow my collection and a love for coin collecting. As a side note, while in the Boy Scouts, I did earn the coin collecting merit badge.&lt;/p&gt;</description>
+      <link>https://www.chrisfrome.com/posts/coin-collecting/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/coin-collecting/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/coin-collecting/feature-coins.jpg" />
     </item>
-    <item>
-      <title>Patch Collecting</title>
-      <link>https://www.chrisfrome.com/post/patch-collecting/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/patch-collecting/</guid>
-      <description>&lt;h1 id=&#34;my-patch-collection&#34;&gt;My Patch Collection&lt;/h1&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;h2 id=&#34;boy-scouts&#34;&gt;Boy Scouts&lt;/h2&gt;&#xA;&lt;h3 id=&#34;council-shoulder-strips&#34;&gt;Council Shoulder Strips&lt;/h3&gt;&#xA;&lt;h3 id=&#34;order-of-the-arrow-pocket-flaps&#34;&gt;Order of the Arrow Pocket Flaps&lt;/h3&gt;&#xA;&lt;h3 id=&#34;souvenier-patches&#34;&gt;Souvenier Patches&lt;/h3&gt;&#xA;&lt;h2 id=&#34;future&#34;&gt;Future&lt;/h2&gt;</description>
-    </item>
+    
   </channel>
 </rss>

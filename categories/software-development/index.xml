@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on Chris Frome</title>
+    <link>https://www.chrisfrome.com/categories/software-development/</link>
+    <description>Recent content in Software Development on Chris Frome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SaltStack</title>
+      <link>https://www.chrisfrome.com/posts/saltstack/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/saltstack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/saltstack/feature-salt-logo.png" />
+    </item>
+    
+    <item>
+      <title>Laravel</title>
+      <link>https://www.chrisfrome.com/posts/laravel/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/laravel/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/laravel/feature-lareavel-logo.svg" />
+    </item>
+    
+  </channel>
+</rss>

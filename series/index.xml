@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Chris Frome</title>
+    <link>https://www.chrisfrome.com/series/</link>
+    <description>Recent content in Series on Chris Frome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <atom:link href="https://www.chrisfrome.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

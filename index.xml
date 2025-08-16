@@ -1,61 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Frome</title>
+    <title>Welcome to my Portfolio &amp; Blog on Chris Frome</title>
     <link>https://www.chrisfrome.com/</link>
-    <description>Recent content on Chris Frome</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.chrisfrome.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SaltStack</title>
-      <link>https://www.chrisfrome.com/post/saltstack/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/saltstack/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;what-is-configuration-mangement&#34;&gt;What is Configuration mangement?&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Configuration mangement is the practace of centrally managing and configuring systems from a centralized control point. Configuration management tools are used for remote configuration of systems (Windows or Linux) in an environment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;configration-management-tools&#34;&gt;Configration Management tools&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ansible&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Puppet&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Chef&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;SaltStack&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;about-salt&#34;&gt;About Salt&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Started in 2011 by Thomas Hatch&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Python based, and open source&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Uses the YAML data structure along with JINJA templating&lt;/p&gt;</description>
-    </item>
+    <description>Recent content in Welcome to my Portfolio &amp; Blog on Chris Frome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Coin Collecting</title>
-      <link>https://www.chrisfrome.com/post/coin-collecting/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/coin-collecting/</guid>
-      <description>&lt;h1 id=&#34;my-coin-collection&#34;&gt;My Coin Collection&lt;/h1&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;My coin collecting began when my dad gave me my first coin book. I don&amp;rsquo;t remember my exact age, but I must have been 7 or 8. He have me one of the unfinished Lincoln penny books he had from his collection. I was also given a big book of the U.S. to use for collecting the state quarters (1999 - 2008). From there I have continued to grow my collection and a love for coin collecting. As a side note, while in the Boy Scouts, I did earn the coin collecting merit badge.&lt;/p&gt;</description>
+      <link>https://www.chrisfrome.com/posts/coin-collecting/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/coin-collecting/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/coin-collecting/feature-coins.jpg" />
     </item>
-    <item>
-      <title>Patch Collecting</title>
-      <link>https://www.chrisfrome.com/post/patch-collecting/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/patch-collecting/</guid>
-      <description>&lt;h1 id=&#34;my-patch-collection&#34;&gt;My Patch Collection&lt;/h1&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;h2 id=&#34;boy-scouts&#34;&gt;Boy Scouts&lt;/h2&gt;&#xA;&lt;h3 id=&#34;council-shoulder-strips&#34;&gt;Council Shoulder Strips&lt;/h3&gt;&#xA;&lt;h3 id=&#34;order-of-the-arrow-pocket-flaps&#34;&gt;Order of the Arrow Pocket Flaps&lt;/h3&gt;&#xA;&lt;h3 id=&#34;souvenier-patches&#34;&gt;Souvenier Patches&lt;/h3&gt;&#xA;&lt;h2 id=&#34;future&#34;&gt;Future&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Dutch Oven Cast Iron Cooking</title>
-      <link>https://www.chrisfrome.com/post/dutch-oven-cooking/</link>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/dutch-oven-cooking/</guid>
-      <description>&lt;h1 id=&#34;dutch-oven-cast-iron-cooking&#34;&gt;Dutch Oven Cast Iron Cooking&lt;/h1&gt;&#xA;&lt;p&gt;One of my favorite things to use for cooking is the dutch oven. I got my first introduction to using cast iron from being in the Boy Scouts. The dutch oven&#xA;makes for easy one dish meals with easy cleanup. You can make everything from breakfast casseroles to soup/stew, pizza or even dessert.&#xA;Cast iron in general, is great not just for camping but is great when cooking at home too. However, you may not be too familiar with how to properly use use one, so here are the steps (both outdoor and indoor cooking):&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Laravel</title>
-      <link>https://www.chrisfrome.com/post/laravel/</link>
-      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/laravel/</guid>
-      <description>&lt;h1 id=&#34;laravel-with-homestead--web-app-development-and-management&#34;&gt;Laravel with Homestead : Web app Development and Management&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://php.net/manual/en/&#34;&gt;PHP Docs&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://laravel.com/docs/5.5&#34;&gt;Laravel Docs&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-homestead&#34;&gt;What is Homestead&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Homestead is a pre-packaged vagrant box that provides you will all the development tools that you need by default&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Once you have setup your virtual machine and vagrant, you simply add homestead box to it and all of the development tools are installed automatically for you. This saves you the time of individually installing the required software.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>https://www.chrisfrome.com/projects/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/projects/</guid>
-      <description>&lt;h1&gt;Personal Projects&lt;/h1&gt;&#xA;   &lt;br /&gt;&#xA;   &lt;i class=&#34;fa fa-github fa-lg&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://github.com/cfrome77/hugo-website-code&#34;&gt;Hugo Website Code&lt;/a&gt;&#xA;   &lt;p&gt;This is the github repository that host the hugo code that my wesite is built from&lt;/p&gt;&#xA;   &lt;hr /&gt;&#xA;   &lt;i class=&#34;fa fa-github fa-lg&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://github.com/cfrome77/cfrome77.github.io&#34;&gt;chrisfrome.com&lt;/a&gt;&#xA;   &lt;p&gt;This is the html code for the site that is generated by hugo&lt;/p&gt;&#xA;   &lt;hr /&gt;&#xA;   &lt;i class=&#34;fa fa-github fa-lg&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://github.com/cfrome77/BinConvert&#34;&gt;BinConvert&lt;/a&gt;&#xA;   &lt;p&gt;This is a Java number Converter. It lets you convert a decimal number to various other number formats&lt;/p&gt;&#xA;   &lt;hr /&gt;&#xA;   &lt;i class=&#34;fa fa-github fa-lg&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://github.com/cfrome77/CS480-Portfolio&#34;&gt;CS 480 Portfolio Code&lt;/a&gt;&#xA;   &lt;p&gt;This is the code used for my final class assignment for CS 480 at JMU. It contains contains a design manifesto, &#xA;      as well as showcases my work from the class&lt;/p&gt;</description>
-    </item>
+    
     <item>
       <title>About</title>
       <link>https://www.chrisfrome.com/about/</link>
-      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
       <guid>https://www.chrisfrome.com/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;My name is Chris Frome. I&amp;rsquo;m currently a DevOps engineer in the Baltimore, MD area. I graduated with from James Madison University where I majored in Computer Science and minored in Environmental Information Systems.&#xA;My interests within Computer Science include: software engineering, DevOps, and full stack web development.&#xA;I first learned about programming starting in high school, and am now working as a web and software developer.&#xA;Aside from programming and computer science I enjoy community service, cooking, hiking, tabeltop RPG&amp;rsquo;s, trivai, and camping/the outdoors.&lt;/p&gt;</description>
+      <description></description>
+      
     </item>
+    
+    <item>
+      <title>chrisfrome.com</title>
+      <link>https://www.chrisfrome.com/projects/chrisfrome-com/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/chrisfrome-com/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SaltStack</title>
+      <link>https://www.chrisfrome.com/posts/saltstack/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/saltstack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/saltstack/feature-salt-logo.png" />
+    </item>
+    
+    <item>
+      <title>Dutch Oven Cast Iron Cooking</title>
+      <link>https://www.chrisfrome.com/posts/dutch-oven-cooking/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/dutch-oven-cooking/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/dutch-oven-cooking/feature-dutch-oven.jpg" />
+    </item>
+    
+    <item>
+      <title>Laravel</title>
+      <link>https://www.chrisfrome.com/posts/laravel/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/laravel/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/laravel/feature-lareavel-logo.svg" />
+    </item>
+    
+    <item>
+      <title>Binary Converter GUI</title>
+      <link>https://www.chrisfrome.com/projects/bin-convert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/bin-convert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo Nix Theme</title>
+      <link>https://www.chrisfrome.com/projects/hugo-nix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/hugo-nix/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo Website Code</title>
+      <link>https://www.chrisfrome.com/projects/hugo-website-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/hugo-website-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JMU CS VM Configuration Tool</title>
+      <link>https://www.chrisfrome.com/projects/jmu-cs-vm-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/jmu-cs-vm-tool/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>jordanenvironmental.net</title>
+      <link>https://www.chrisfrome.com/projects/jordanenvironmental-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/jordanenvironmental-net/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Liquid-Stats</title>
+      <link>https://www.chrisfrome.com/projects/liquid-stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/liquid-stats/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

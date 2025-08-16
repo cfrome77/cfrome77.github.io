@@ -4,16 +4,22 @@
     <title>Saltstack on Chris Frome</title>
     <link>https://www.chrisfrome.com/tags/saltstack/</link>
     <description>Recent content in Saltstack on Chris Frome</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.chrisfrome.com/tags/saltstack/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/tags/saltstack/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>SaltStack</title>
-      <link>https://www.chrisfrome.com/post/saltstack/</link>
+      <link>https://www.chrisfrome.com/posts/saltstack/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.chrisfrome.com/post/saltstack/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;what-is-configuration-mangement&#34;&gt;What is Configuration mangement?&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Configuration mangement is the practace of centrally managing and configuring systems from a centralized control point. Configuration management tools are used for remote configuration of systems (Windows or Linux) in an environment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;configration-management-tools&#34;&gt;Configration Management tools&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ansible&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Puppet&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Chef&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;SaltStack&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;about-salt&#34;&gt;About Salt&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Started in 2011 by Thomas Hatch&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Python based, and open source&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Uses the YAML data structure along with JINJA templating&lt;/p&gt;</description>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/saltstack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/saltstack/feature-salt-logo.png" />
     </item>
+    
   </channel>
 </rss>

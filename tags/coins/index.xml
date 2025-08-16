@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coins on Chris Frome</title>
+    <link>https://www.chrisfrome.com/tags/coins/</link>
+    <description>Recent content in Coins on Chris Frome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
+    <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
+    <copyright>© 2025 Chris Frome</copyright>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/tags/coins/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coin Collecting</title>
+      <link>https://www.chrisfrome.com/posts/coin-collecting/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/posts/coin-collecting/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chrisfrome.com/posts/coin-collecting/feature-coins.jpg" />
+    </item>
+    
+  </channel>
+</rss>
