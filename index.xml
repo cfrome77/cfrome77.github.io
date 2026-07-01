@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>chris@chrisfrome.com (Chris Frome)</managingEditor>
     <webMaster>chris@chrisfrome.com (Chris Frome)</webMaster>
-    <copyright>© 2025 Chris Frome</copyright>
+    <copyright>© 2026 Chris Frome</copyright>
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.chrisfrome.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -102,6 +102,16 @@
     </item>
     
     <item>
+      <title>Infinite Trail Brewing</title>
+      <link>https://www.chrisfrome.com/projects/infinite-trail-brewing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/infinite-trail-brewing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>JMU CS VM Configuration Tool</title>
       <link>https://www.chrisfrome.com/projects/jmu-cs-vm-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -127,6 +137,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>chris@chrisfrome.com (Chris Frome)</author>
       <guid>https://www.chrisfrome.com/projects/liquid-stats/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LodgeLink - Event Management</title>
+      <link>https://www.chrisfrome.com/projects/lodgelink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chris@chrisfrome.com (Chris Frome)</author>
+      <guid>https://www.chrisfrome.com/projects/lodgelink/</guid>
       <description></description>
       
     </item>

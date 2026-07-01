@@ -72,6 +72,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.chrisfrome.com/projects/infinite-trail-brewing/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.chrisfrome.com/projects/jmu-cs-vm-tool/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -83,6 +88,11 @@
   </url>
   <url>
     <loc>https://www.chrisfrome.com/projects/liquid-stats/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.chrisfrome.com/projects/lodgelink/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
